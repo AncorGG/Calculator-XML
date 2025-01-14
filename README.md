@@ -5,7 +5,6 @@ Una sencilla aplicación de Android desarrollada en Java con una interfaz de usu
 ## Características
 
 - **Validación de entradas:** Verifica que las entradas sean números válidos antes de realizar la suma.
-- **Diseño amigable:** Interfaz creada usando layouts de XML con estilo moderno.
 - **Mensajes de error:** Muestra mensajes claros si las entradas son inválidas.
 
 ## Capturas de Pantalla
